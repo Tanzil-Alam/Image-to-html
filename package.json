@@ -1,0 +1,8 @@
+{
+  "name": "image-to-html",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx vercel dev"
+  }
+}
